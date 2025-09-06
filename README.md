@@ -41,7 +41,7 @@ The project consists of a **single repository** hosting both backend and fronten
 ### 3. **Project Structure**
 
 ```markdown
-green-market-place/
+odoo-/
 ├── bin/                # Application entry point
 ├── config/             # Configuration files
 ├── controllers/        # Route controllers
@@ -72,8 +72,8 @@ green-market-place/
 ### Steps to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone git@github.com:fahad-git/green-market-place.git
-   cd green-market-place
+   git clone https://github.com/Priyadharshini062005/odoo-.git
+   cd odoo-
    ```
 
 2. **Set Node Version**:
